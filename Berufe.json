@@ -1,0 +1,336 @@
+{
+  "id": "https://shoeing1.github.io/MALIS24_NDB/Berufe",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Berufe",
+    "en": "Professions"
+  },
+  "definition": {
+    "de": "Arbeit oder Tätigkeit, mit der jemand sein Geld verdient",
+    "en": "work or activity with which someone earns money"
+  },
+  "narrower": [
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Altphilologe",
+      "prefLabel": {
+        "de": "Altphilologe",
+        "en": "classical philologist"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Anatom",
+      "prefLabel": {
+        "de": "Anatom",
+        "en": "anatomist"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Arbeiter",
+      "prefLabel": {
+        "de": "Arbeiter",
+        "en": "Worker"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Architekt",
+      "prefLabel": {
+        "de": "Architekt",
+        "en": "Architect"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Archivar",
+      "prefLabel": {
+        "de": "Archivar",
+        "en": "Archivist"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Astrologe",
+      "prefLabel": {
+        "de": "Astrologe",
+        "en": "Astrologist"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Astronom",
+      "prefLabel": {
+        "de": "Astronom",
+        "en": "Astronomer"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Autor",
+      "prefLabel": {
+        "de": "Autor",
+        "en": "Author"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Außenminister",
+      "prefLabel": {
+        "de": "Außenminister",
+        "en": "Minister of foreign affairs"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Bakteriologe",
+      "prefLabel": {
+        "de": "Bakteriologe",
+        "en": "bacteriologist"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Bergarbeiter",
+      "prefLabel": {
+        "de": "Bergarbeiter",
+        "en": "Minder"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Bibliothekar",
+      "prefLabel": {
+        "de": "Bibliothekar",
+        "en": "librarian"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Botschafter",
+      "prefLabel": {
+        "de": "Botschafter",
+        "en": "Ambassador"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Cellist",
+      "prefLabel": {
+        "de": "Cellist",
+        "en": "Cellist"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Clown",
+      "prefLabel": {
+        "de": "Clown",
+        "en": "Clown"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Dokumentar",
+      "prefLabel": {
+        "de": "Dokumentar",
+        "en": "Information specialist"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Ethnologe",
+      "prefLabel": {
+        "de": "Ethnologe",
+        "en": "ethnologist"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Fotograf",
+      "prefLabel": {
+        "de": "Fotograf",
+        "en": "photographer"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Geiger",
+      "prefLabel": {
+        "de": "Geiger",
+        "en": "violinist"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Historiker",
+      "prefLabel": {
+        "de": "Historiker",
+        "en": "historian"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Instrumentenbauer",
+      "prefLabel": {
+        "de": "Instrumentenbauer",
+        "en": "luthier"
+      }
+    },
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/Juwelier",
+      "prefLabel": {
+        "de": "Juwelier",
+        "en": "jeweler"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/NDB",
+      "title": {
+        "de": "Berufe und Funktionen",
+        "en": "Professions and functions"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/NDB"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://shoeing1.github.io/MALIS24_NDB/NDB",
+      "title": {
+        "de": "Berufe und Funktionen",
+        "en": "Professions and functions"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
