@@ -6,22 +6,22 @@
     "en": "Professions"
   },
   "definition": {
-    "de": "Arbeit oder Tätigkeit, mit der jemand sein Geld verdient",
-    "en": "work or activity with which someone earns money"
+    "de": "Arbeit oder Tätigkeit, mit der jemand sein Geld verdient.",
+    "en": "work or activity with which someone earns money."
   },
   "narrower": [
     {
       "id": "https://shoeing1.github.io/MALIS24_NDB/Altphilologe",
       "prefLabel": {
         "de": "Altphilologe",
-        "en": "classical philologist"
+        "en": "Classical philologist"
       }
     },
     {
       "id": "https://shoeing1.github.io/MALIS24_NDB/Anatom",
       "prefLabel": {
         "de": "Anatom",
-        "en": "anatomist"
+        "en": "Anatomist"
       }
     },
     {
@@ -77,21 +77,21 @@
       "id": "https://shoeing1.github.io/MALIS24_NDB/Bakteriologe",
       "prefLabel": {
         "de": "Bakteriologe",
-        "en": "bacteriologist"
+        "en": "Bacteriologist"
       }
     },
     {
       "id": "https://shoeing1.github.io/MALIS24_NDB/Bergarbeiter",
       "prefLabel": {
         "de": "Bergarbeiter",
-        "en": "Minder"
+        "en": "Miner"
       }
     },
     {
       "id": "https://shoeing1.github.io/MALIS24_NDB/Bibliothekar",
       "prefLabel": {
         "de": "Bibliothekar",
-        "en": "librarian"
+        "en": "Librarian"
       }
     },
     {
@@ -126,42 +126,42 @@
       "id": "https://shoeing1.github.io/MALIS24_NDB/Ethnologe",
       "prefLabel": {
         "de": "Ethnologe",
-        "en": "ethnologist"
+        "en": "Ethnologist"
       }
     },
     {
       "id": "https://shoeing1.github.io/MALIS24_NDB/Fotograf",
       "prefLabel": {
         "de": "Fotograf",
-        "en": "photographer"
+        "en": "Photographer"
       }
     },
     {
       "id": "https://shoeing1.github.io/MALIS24_NDB/Geiger",
       "prefLabel": {
         "de": "Geiger",
-        "en": "violinist"
+        "en": "Violinist"
       }
     },
     {
       "id": "https://shoeing1.github.io/MALIS24_NDB/Historiker",
       "prefLabel": {
         "de": "Historiker",
-        "en": "historian"
+        "en": "Historian"
       }
     },
     {
       "id": "https://shoeing1.github.io/MALIS24_NDB/Instrumentenbauer",
       "prefLabel": {
         "de": "Instrumentenbauer",
-        "en": "luthier"
+        "en": "Luthier"
       }
     },
     {
       "id": "https://shoeing1.github.io/MALIS24_NDB/Juwelier",
       "prefLabel": {
         "de": "Juwelier",
-        "en": "jeweler"
+        "en": "Jeweler"
       }
     }
   ],

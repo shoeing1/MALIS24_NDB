@@ -3,11 +3,11 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Bakteriologe",
-    "en": "bacteriologist"
+    "en": "Bacteriologist"
   },
   "definition": {
-    "de": "Wissenschaftler auf dem Gebiet der Bakteriologie",
-    "en": "Scientist in the field of bacteriology"
+    "de": "Wissenschaftler auf dem Gebiet der Bakteriologie.",
+    "en": "Scientist in the field of bacteriology."
   },
   "notation": [
     "135516"

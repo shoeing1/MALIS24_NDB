@@ -3,11 +3,11 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Gastarbeiter",
-    "en": "guest worker"
+    "en": "Guest worker"
   },
   "definition": {
     "de": "Mitglieder einer Personengruppe, denen aufgrund von Anwerbeabkommen ein zeitlich befristeter Aufenthalt in der Bundesrepublik Deutschland, der DDR, Österreich oder der Schweiz zur Arbeitsaufnahme gewährt wurde.",
-    "en": "Members of a group of persons who have been granted a temporary residence permit in the Federal Republic of Germany, the GDR, Austria or Switzerland to take up employment on the basis of recruitment agreements"
+    "en": "Members of a group of people who have been granted a temporary residence permit in the Federal Republic of Germany, the GDR, Austria or Switzerland to take up employment on the basis of recruitment agreements."
   },
   "notation": [
     "135609"

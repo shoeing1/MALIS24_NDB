@@ -3,11 +3,11 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Altphilologe",
-    "en": "classical philologist"
+    "en": "Classical philologist"
   },
   "definition": {
-    "de": "Wissenschaftler, der sich mit den klassischen Sprachen Altgriechisch und Latein beschäftigt",
-    "en": "Scientist who studies the classic languages Old Greek and Latin"
+    "de": "Wissenschaftler, der sich mit den klassischen Sprachen Altgriechisch und Latein beschäftigt.",
+    "en": "Scientist who studies the classic languages Old Greek and Latin."
   },
   "notation": [
     "135490"
