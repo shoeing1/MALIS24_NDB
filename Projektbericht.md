@@ -8,7 +8,7 @@ Jil Marie Blum (Matrikelnummer: xxxxxxxx )
 
 Stephan Höing (Matrikelnummer: 11333362 )
 
-Rieke Paetsch-Saleh (Matrikelnummer: xxxxxxxx )
+Rieke Paetsch-Saleh (Matrikelnummer: 11336561 )
 
 ## Inhalt
 - [1. Auswahl und Beschreibung des Vokabulars](#1)
