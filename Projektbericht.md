@@ -42,7 +42,7 @@ Im weiteren Verlauf des Projektberichtes wird darauf eingegangen, welche Felder 
 
 <a name="2"></a>
 ## **2. Kapitelname**
-
+Die von der Gruppe gewählte und dargestellte Art der Zuammenarbeit ist hauptsächlich durch die Tatsache begründet, dass die Bearbeitung der gestellten Aufgabe für alle Gruppenmitglieder Neuland war. So wurde sichgestellt, dass niemand zurückgelassen wurde. 
 
 <a name="3"></a>
 ## **3. Umsetzungsphase**
