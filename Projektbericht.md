@@ -13,12 +13,12 @@ Rieke Paetsch-Saleh (Matrikelnummer: 11336561 )
 ## Inhalt
 - [1. Auswahl und Beschreibung des Vokabulars](#1)
     - [1.1 Aufbau der Normdatenbank](#1.1)
-- [2. Organisation der Zusammenarbeit ???](#2)
+- [2. Organisation der Zusammenarbeit](#2)
 - [3. Umsetzungsphase](#3)
     - [3.1 Vorbereitung der Kodierung](#3.1)
     - [3.1 SKOS-Kodierung des Vokabulars](#3.2)
     - [3.2 Veröffentlichung mit SKOHub Pages](#3.3)
-- [4. Kapitelname](#4)
+- [4. Ausblick](#4)
 - [5. Kapitelname](#5)
   
 <a name="1"></a>
@@ -41,7 +41,9 @@ Die Normdatenbank wird lediglich in deutscher Sprache geführt. Die Gruppe hat s
 Im weiteren Verlauf des Projektberichtes wird darauf eingegangen, welche Felder der NDB für relevant erachtet und wie diese in der SKOS-Kodierung implementiert wurden.
 
 <a name="2"></a>
-## **2. Kapitelname**
+## **2. Organisation der Zusammenarbeit**
+In der ersten Präsenzphase des Wintersemesters 2024/2025 hat sich die Gruppe bereits vor Ort an der TH Köln zusammengefunden und sich auf Kommunikationswege verständig. Neben einer Chatgruppe, die hauptsächlich für kurze Updates und Verabredungen genutzt wurde, traf die Gruppe sich regelmäßig im Online-Meeting. Da, wie schon erwähnt, zwei der Gruppenmitglieder die NDB der ARD gut kennen, fiel die Entscheidung, diese für die Kodierung zu nutzen, sehr schnell. Gemeinsam wurden im Online-Meeting die Begriffe ausgewählt, das in der Aufgabenstellung zur Verfügung gestellte Tutorial zusammen durchgeführt und ein Grundgerüst zur Kodierung des SKOS-Vokabulars erstellt. Auch der Projektbericht wurde von den Gruppenmitgliedern gemeinsam geschrieben, geprüft und strukturiert. Im Nachhinein bewerten wir insbesondere die über alle Ebenen hinweg gemeinschaftliche Bearbeitung, vom Tutorial bis zum Verfassen des Berichts, als sehr positiv. Der Lerneffekt war durch die gegenseitige Unterstützung besonders nachhaltig. Wie die Aufgabe im Detail gelöst wurde, wird im Abschnitt Umsetzungsphase eingehender erläutert.
+
 Die von der Gruppe gewählte und dargestellte Art der Zuammenarbeit ist hauptsächlich durch die Tatsache begründet, dass die Bearbeitung der gestellten Aufgabe für alle Gruppenmitglieder Neuland war. So wurde sichgestellt, dass niemand zurückgelassen wurde. 
 
 <a name="3"></a>
@@ -133,7 +135,7 @@ Für die Veröffentlichung mit SKOHub Pages wurde zunächst von einem Gruppenmit
 Beim Öffnen des entstandenen SkoHub Vocabs zeigte sich ein weiterer Fehler. Der in @base verwendete Link zur Normdatenbank konnte nicht verarbeitet werden, da dieser nicht über das öffentliche Internet, sondern nur über das ARD-Netz zugänglich ist. Der Link wurde stattdessen durch den Link zu SkoHub Vocabs ersetzt, wonach das Vokabular erfolgreich veröffentlicht wurde und geöffnet werden konnte. Abschließend mussten am Vokabular lediglich Rechtschreibung und Orthographie korrigiert und vereinheitlicht werden.
 
 <a name="4"></a>
-## **4. Kapitelname**
+## **4. Ausblick**
 
 
 <a name="5"></a>
