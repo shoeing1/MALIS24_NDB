@@ -19,11 +19,10 @@ Rieke Paetsch-Saleh (Matrikelnummer: 11336561 )
     - [3.1 SKOS-Kodierung des Vokabulars](#3.2)
     - [3.2 Veröffentlichung mit SKOHub Pages](#3.3)
 - [4. Ausblick](#4)
-- [5. Kapitelname](#5)
   
 <a name="1"></a>
 ## **1. Auswahl und Beschreibung des Vokabulars**
-In der Normdatenbank (kurz NDB) der ARD wird das standartisierte, für die inhaltliche Erschließung von gesendetem Material genutzte Vokabular gesammelt. Zur Vereinheitlichung der Erschließung und der vereinfachten Recherche über Anstaltsgrenzen hinaus wird dieses Vokabular in der gesamten ARD verwendet. Da zwei Mitglieder dieser Projektgruppe durch vergangene oder derzeitige Anstellung im WDR mit der Normdatenbank vertraut sind und diese noch nicht SKOS-kodiert vorliegt, wurde die NDB als Grundlage für die Lösung der Aufgabe genutzt. Da die Normdatenbank Eintragungen im siebenstelligen Bereich enthält wurde für das Projekt lediglich ein kleiner Teil des Gesamtvokabulars genutzt. Dabei wurde besonderer Wert auf die Auswahl einzelner Vokabeln gelegt, die sich durch zusätzliche Felder von anderen unterscheiden. So wurden gezielt einige Begriffe ausgewählt, die beispielsweise alternative Bezeichnungen oder weitere Unterelemente enthalten.
+In der Normdatenbank (kurz NDB) der ARD wird das standartisierte, für die inhaltliche Erschließung von gesendetem Material genutzte Vokabular gesammelt. Zur Vereinheitlichung der Erschließung und der vereinfachten Recherche über Rundfunkanstaltsgrenzen hinaus wird dieses Vokabular in der gesamten ARD verwendet. Da zwei Mitglieder dieser Projektgruppe durch vergangene oder derzeitige Anstellung im WDR mit der Normdatenbank vertraut sind und diese noch nicht SKOS-kodiert vorliegt, wurde die NDB als Grundlage für die Lösung der Aufgabe genutzt. Da die Normdatenbank Eintragungen im siebenstelligen Bereich enthält wurde für das Projekt lediglich ein kleiner Teil des Gesamtvokabulars genutzt. Dabei wurde besonderer Wert auf die Auswahl einzelner Vokabeln gelegt, die sich durch zusätzliche Felder von anderen unterscheiden. So wurden gezielt einige Begriffe ausgewählt, die beispielsweise alternative Bezeichnungen oder weitere Unterelemente enthalten.
  
 <a name="1.1"></a>
 ### 1.1 Aufbau der Normdatenbank
@@ -136,10 +135,7 @@ Beim Öffnen des entstandenen SkoHub Vocabs zeigte sich ein weiterer Fehler. Der
 
 <a name="4"></a>
 ## **4. Ausblick**
-
-
-<a name="5"></a>
-## **5. Kapitelname**
+Da es sich bei der Normdatenbank um eine ARD-interne Anwendung handelt, wird diese durch die SKOS-kodierung einer breiteren Öffentlichkeit zugänglich. Dadurch können sich auch ARD-externe Organisationen an den Dokumentationsstandards orientieren. Durch die Maschinenlesbarkeit des SKOS-Vokabular kann ein Vergleich gegebenenfalls auch automatisiert geschehen. Dazu müsste zunächst das vorliegende SKOS-Vokabular durch die weiteren Einträge der NDB ergänzen und möglicherweise auch durch neue sprachliche Konventionen (bspw. Einbeziehung nonbinärer Personen) erweitern.
 
 
 
