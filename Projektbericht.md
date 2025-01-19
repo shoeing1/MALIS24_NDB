@@ -22,7 +22,7 @@ Rieke Paetsch-Saleh (Matrikelnummer: 11336561 )
   
 <a name="1"></a>
 ## **1. Auswahl und Beschreibung des Vokabulars**
-In der Normdatenbank (kurz NDB) der ARD wird das standartisierte, für die inhaltliche Erschließung von gesendetem Material genutzte Vokabular gesammelt. Zur Vereinheitlichung der Erschließung und der vereinfachten Recherche über Rundfunkanstaltsgrenzen hinaus wird dieses Vokabular in der gesamten ARD verwendet. Da zwei Mitglieder dieser Projektgruppe durch vergangene oder derzeitige Anstellung im WDR mit der Normdatenbank vertraut sind und diese noch nicht SKOS-kodiert vorliegt, wurde die NDB als Grundlage für die Lösung der Aufgabe genutzt. Da die Normdatenbank Eintragungen im siebenstelligen Bereich enthält wurde für das Projekt lediglich ein kleiner Teil des Gesamtvokabulars genutzt. Dabei wurde besonderer Wert auf die Auswahl einzelner Vokabeln gelegt, die sich durch zusätzliche Felder von anderen unterscheiden. So wurden gezielt einige Begriffe ausgewählt, die beispielsweise alternative Bezeichnungen oder weitere Unterelemente enthalten.
+In der Normdatenbank (kurz NDB) der ARD wird das standartisierte, für die inhaltliche Erschließung von gesendetem Material genutzte Vokabular gesammelt. Zur Vereinheitlichung der Erschließung und der vereinfachten Recherche über Rundfunkanstaltsgrenzen hinaus wird dieses Vokabular in der gesamten ARD verwendet. Da zwei Mitglieder dieser Projektgruppe durch vergangene oder derzeitige Anstellung im WDR mit der Normdatenbank vertraut sind und diese noch nicht SKOS-kodiert vorliegt, wurde die NDB als Grundlage für die Lösung der Aufgabe genutzt. Da die Normdatenbank Eintragungen im siebenstelligen Bereich enthält wurde für das Projekt lediglich ein kleiner Teil des Gesamtvokabulars genutzt. Dabei wurde besonderer Wert auf die Auswahl einzelner Vokabeln gelegt, die sich durch zusätzliche Felder von anderen unterscheiden. So wurden gezielt Begriffe ausgewählt, die beispielsweise alternative Bezeichnungen oder weitere Unterelemente enthalten, um auch Hierarchien darstellen zu können.
  
 <a name="1.1"></a>
 ### 1.1 Aufbau der Normdatenbank
@@ -30,31 +30,31 @@ Die Normdatenbank ist in mehrere Teilbereiche untergliedert, in denen neben Voka
 
 Der für das Projekt relevante Teil _Vokabulare_ ist in 17 Teile unterteilt. Die vorliegende Arbeit basiert auf einer Auswahl von Begriffen aus dem Vokabular _Berufe und Funktionen_. Die Berufsbezeichnungen sind alphabetisch geordnet und liegen in den meisten Fällen sowohl in männlicher als auch in weiblicher Form vor. Um eine größere Anzahl unterschiedlicher Berufe in der SKOS-Kodierung abzubilden, wurde entschieden, für das Projekt lediglich die männliche Ansetzungsform zu verwenden.
 
-Jeder Eintrag der NDB erhält eine Vokabel-ID, über die dieser eindeutig identifizierbar gemacht wird. Im Eintrag einer Vokabel befinden sich zudem Verweise auf alternative Bezeichnungen, ggf. tiefere Hierarchieebenen und in vielen Fällen eine Erläuterung des Begriffs.
+Jeder Eintrag in der NDB erhält eine Vokabel-ID, über die dieser eindeutig identifizierbar gemacht wird. Im Eintrag einer Vokabel befinden sich zudem Verweise auf alternative Bezeichnungen, ggf. tiefere Hierarchieebenen und in vielen Fällen eine Erläuterung des Begriffs.
 
 ![](https://github.com/shoeing1/MALIS24_NDB/blob/main/NDB%20Screenshot.png)
 Abb. 1: Screenshot des NDB-Eintrags _Arbeiter_
 
-Die Normdatenbank wird lediglich in deutscher Sprache geführt. Die Gruppe hat sich dennoch für die Erstellung eines zweisprachigen SKOS-Vokabulars entschieden, für das die entsprechenden Felder eigenständig übersetzt wurden. In einigen Fällen fehlte eine Definition der Vokabel in der NDB. Statt auf eine Begriffserklärung zu verzichten wurde für entsprechende Begfiffe auf die jeweilige Definitionen des Dudens zurückgegriffen.
+Die Normdatenbank wird lediglich in deutscher Sprache geführt. Die Gruppe hat sich dennoch für die Erstellung eines zweisprachigen SKOS-Vokabulars entschieden, für das die entsprechenden Felder eigenständig übersetzt wurden. In einigen Fällen fehlte eine Definition der Vokabel in der NDB. Statt auf eine Begriffserklärung zu verzichten, wurde für entsprechende Begfiffe auf die jeweilige Definitionen des Dudens zurückgegriffen.
 
-Im weiteren Verlauf des Projektberichtes wird darauf eingegangen, welche Felder der NDB für relevant erachtet und wie diese in der SKOS-Kodierung implementiert wurden.
+Im weiteren Verlauf des Projektberichtes wird darauf eingegangen, welche Felder der NDB für relevant erachtet werden und wie diese in der SKOS-Kodierung implementiert wurden.
 
 <a name="2"></a>
 ## **2. Organisation der Zusammenarbeit**
-In der ersten Präsenzphase des Wintersemesters 2024/2025 hat sich die Gruppe bereits vor Ort an der TH Köln zusammengefunden und sich auf Kommunikationswege verständig. Neben einer Chatgruppe, die hauptsächlich für kurze Updates und Verabredungen genutzt wurde, traf die Gruppe sich regelmäßig im Online-Meeting. Da, wie schon erwähnt, zwei der Gruppenmitglieder die NDB der ARD gut kennen, fiel die Entscheidung, diese für die Kodierung zu nutzen, sehr schnell. Gemeinsam wurden im Online-Meeting die Begriffe ausgewählt, das in der Aufgabenstellung zur Verfügung gestellte Tutorial zusammen durchgeführt und ein Grundgerüst zur Kodierung des SKOS-Vokabulars erstellt. Auch der Projektbericht wurde von den Gruppenmitgliedern gemeinsam geschrieben, geprüft und strukturiert. Im Nachhinein bewerten wir insbesondere die über alle Ebenen hinweg gemeinschaftliche Bearbeitung, vom Tutorial bis zum Verfassen des Berichts, als sehr positiv. Der Lerneffekt war durch die gegenseitige Unterstützung besonders nachhaltig. Wie die Aufgabe im Detail gelöst wurde, wird im Abschnitt Umsetzungsphase eingehender erläutert.
+In der ersten Präsenzphase des Wintersemesters 2024/2025 hat sich die Gruppe bereits vor Ort an der TH Köln zusammengefunden und sich auf Kommunikationswege verständig. Neben einer Chatgruppe, die hauptsächlich für kurze Updates und Verabredungen genutzt wurde, traf die Gruppe sich regelmäßig im Online-Meeting. Da, wie schon erwähnt, zwei der Gruppenmitglieder die NDB der ARD gut kennen, fiel die Entscheidung, diese für die Kodierung zu nutzen, sehr schnell. Gemeinsam wurden im Online-Meeting die Begriffe ausgewählt, das in der Aufgabenstellung zur Verfügung gestellte Tutorial zusammen durchgeführt und ein Grundgerüst zur Kodierung des SKOS-Vokabulars erstellt. Auch der Projektbericht wurde von den Gruppenmitgliedern gemeinsam geschrieben, geprüft und strukturiert. Korrekturen und Ergänzungen wurden direkt in github realisiert. Im Nachhinein bewerten wir insbesondere die über alle Ebenen hinweg gemeinschaftliche Bearbeitung, vom Tutorial bis zum Verfassen des Berichts, als sehr positiv. Der Lerneffekt war durch die gegenseitige Unterstützung besonders nachhaltig. Wie die Aufgabe im Detail gelöst wurde, wird im Abschnitt Umsetzungsphase eingehender erläutert.
 
 Die von der Gruppe gewählte und dargestellte Art der Zuammenarbeit ist hauptsächlich durch die Tatsache begründet, dass die Bearbeitung der gestellten Aufgabe für alle Gruppenmitglieder Neuland war. So wurde sichgestellt, dass niemand zurückgelassen wurde. 
 
 <a name="3"></a>
 ## **3. Umsetzungsphase**
-Im Folgenden wird die Umsetzung genauer Beschrieben. Dabei soll zunächst detailliert darauf eingegangen werden, welche Felder der NDB genutzt und wie diese in die SKOS-Kodierung eingearbeitet wurden. Im zweiten Schritt wird auf den Veröffentlichungsvorgang des Vokabulars ober SKOHub Pages eingegangen. In der Beschreibung wird auch auf Probleme eingegangen, die bei der Umsetzung aufgetreten sind.
+Im Folgenden wird die Umsetzung genauer beschrieben. Dabei soll zunächst detailliert darauf eingegangen werden, welche Felder der NDB genutzt und wie diese in die SKOS-Kodierung eingearbeitet wurden. Im zweiten Schritt wird auf den Veröffentlichungsvorgang des Vokabulars über SKOHub Pages eingegangen. In der Beschreibung werden auch Probleme skizziert, die bei der Umsetzung aufgetreten sind.
 
 
 <a name="3.1"></a>
 ### 3.1 Vorbereitung der Kodierung
-Als Grundlage für die Bearbeitung der Aufgabe und um ein Verständnis für SKOS zu gewinnen wurde von den Gruppenmitgliedern die in der Aufgabenstellung verlinkte _Einführung in SKOS_ von Felix Lohmeier, Adrian Pohl und Jakob Voß gelesen und das dort bereitgestellte Tutorial durchgearbeitet.[^1] Viele der dort beschriebenen Schritte und Vorgehensweisen konnten für die Bearbeitung der Aufgabe direkt übernommen werden. 
+Als Grundlage für die Bearbeitung der Aufgabe und um ein Verständnis für SKOS zu gewinnen, wurde von den Gruppenmitgliedern die in der Aufgabenstellung verlinkte _Einführung in SKOS_ von Felix Lohmeier, Adrian Pohl und Jakob Voß gelesen und das dort bereitgestellte Tutorial durchgearbeitet.[^1] Viele der dort beschriebenen Schritte und Vorgehensweisen konnten für die Bearbeitung der Aufgabe direkt übernommen werden. 
 
-Vor der eigentlichen Kodierung wurde eine finale Liste der zu überführenden Begriffe erstellt. Da ein zweisprachiges Vokabular erstellt werden sollte, waren mindestens 20 Begriffe zu wählen. Wie bereits beschrieben wurde hier Wert darauf gelegt, auch Begriffe mit Synonymen oder weiteren Unterelementen auszuwählen. Anschließend wurden die relevanten NDB-Felder identifiziert und wie in der folgenden Tabelle dargestellt den jeweiligen SKOS-Elementen zugewiesen:
+Vor der eigentlichen Kodierung wurde eine finale Liste der zu überführenden Begriffe erstellt. Da ein zweisprachiges Vokabular erstellt werden sollte, waren mindestens 20 Begriffe zu wählen. Wie bereits beschrieben wurde hier Wert darauf gelegt, auch Begriffe mit Synonymen oder weiteren Unterelementen auszuwählen. Anschließend wurden die relevanten NDB-Felder identifiziert und wie in der folgenden Tabelle dargestellt, den jeweiligen SKOS-Elementen zugewiesen:
 
 | NDB-Feld      | SKOS          |
 | ------------- | ------------- |
@@ -103,7 +103,7 @@ Im nächsten Abschnitt ist das TopConcept definiert. Dieses wurde im Feld skos:d
   skos:topConceptOf <NDB> .
 ```
 
-Für die nun in die SKOS-Kodierung zu überführenden Vokabeln konnte ausgehend von den im Tutorial gelernten Basiskenntnissen und den zuvor identifizierten NDB-Feldern eine Vorlage erarbeitet werden, in der lediglich die entsprechenden Eintragungen manuell zu ergänzen waren.
+Für die in die SKOS-Kodierung zu überführenden Vokabeln konnte, ausgehend von den im Tutorial gelernten Basiskenntnissen und den zuvor identifizierten NDB-Feldern, eine Vorlage erarbeitet werden, in der lediglich die entsprechenden Eintragungen manuell zu ergänzen waren.
 
 ```
 <x> a skos:Concept ;                # Berufsbezeichnung
@@ -135,7 +135,7 @@ Beim Öffnen des entstandenen SkoHub Vocabs zeigte sich ein weiterer Fehler. Der
 
 <a name="4"></a>
 ## **4. Ausblick**
-Da es sich bei der Normdatenbank um eine ARD-interne Anwendung handelt, wird diese durch die SKOS-kodierung einer breiteren Öffentlichkeit zugänglich. Dadurch können sich auch ARD-externe Organisationen an den Dokumentationsstandards orientieren. Durch die Maschinenlesbarkeit des SKOS-Vokabular kann ein Vergleich gegebenenfalls auch automatisiert geschehen. Dazu müsste zunächst das vorliegende SKOS-Vokabular durch die weiteren Einträge der NDB ergänzen und möglicherweise auch durch neue sprachliche Konventionen (bspw. Einbeziehung nonbinärer Personen) erweitern.
+Da es sich bei der Normdatenbank um eine ARD-interne Anwendung handelt, wird diese durch die SKOS-kodierung einer breiteren Öffentlichkeit zugänglich. Dadurch können sich auch ARD-externe Organisationen an den Dokumentationsstandards orientieren. Durch die Maschinenlesbarkeit des SKOS-Vokabular kann ein Vergleich gegebenenfalls auch automatisiert geschehen. Dazu müsste zunächst das vorliegende SKOS-Vokabular durch die weiteren Einträge der NDB ergänzt und möglicherweise auch durch neue sprachliche Konventionen (bspw. Einbeziehung nonbinärer Personen) erweitert werden.
 
 
 
