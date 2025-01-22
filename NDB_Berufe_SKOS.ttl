@@ -14,7 +14,7 @@
 
 <Berufe> a skos:Concept ;
   skos:prefLabel "Berufe"@de, "Professions"@en ;
-  skos:definition "Arbeit oder Tätigkeit, mit der jemand sein Geld verdient."@de, "work or activity with which someone earns money."@en ;
+  skos:definition "Arbeit oder Tätigkeit, mit der jemand sein Geld verdient."@de, "Work or activity with which someone earns money."@en ;
   skos:narrower <Altphilologe>, <Anatom>, <Arbeiter>, <Architekt>, <Archivar>, <Astrologe>, <Astronom>, <Autor>, <Außenminister>, <Bakteriologe>, <Bergarbeiter>, <Bibliothekar>, <Botschafter>, <Cellist>, <Clown>, <Dokumentar>, <Ethnologe>, <Fotograf>, <Geiger>, <Historiker>, <Instrumentenbauer>, <Juwelier> ; # die gewählten Berufe stellen lediglich eine willkürliche Auswahl des vollständigen Vokabulars dar.
   skos:topConceptOf <NDB> .
 
@@ -27,7 +27,7 @@
 
 <Anatom> a skos:Concept ;
   skos:prefLabel "Anatom"@de, "Anatomist"@en ;
-  skos:definition "Wissenschaftler, der den Aufbau des Körpers von Lebewesen untersucht."@de, "scientist who studies the structure of the body of living beings."@en ;
+  skos:definition "Wissenschaftler, der den Aufbau des Körpers von Lebewesen untersucht."@de, "Scientist who studies the structure of the body of living beings."@en ;
   skos:broader <Berufe> ;
   skos:notation "135494" ;
   skos:inScheme <NDB> .
@@ -136,7 +136,7 @@
 
 <Clown> a skos:Concept ;
   skos:prefLabel "Clown"@de, "Clown"@en ;
-  skos:definition "Spaßmacher im Zirkus oder Varieté."@de, "entertainer in the circus or a variety show."@en ;
+  skos:definition "Spaßmacher im Zirkus oder Varieté."@de, "Entertainer in the circus or a variety show."@en ;
   skos:broader <Berufe> ;
   skos:notation "135550" ;
   skos:inScheme <NDB> .
